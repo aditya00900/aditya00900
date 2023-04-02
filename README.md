@@ -14,7 +14,7 @@
 <a href="https://twitter.com/@aaditya0297799" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@aadittya0297799" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/𝓐𝓪𝓭𝓲𝓽𝔂𝓪 𝓤𝓹𝓪𝓭𝓱𝔂𝓪𝔂-16089625a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="𝓐𝓪𝓭𝓲𝓽𝔂𝓪 𝓤𝓹𝓪𝓭𝓱𝔂𝓪𝔂" height="30" width="40" /></a>
 <a href="https://instagram.com/bad_boy_upc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bad_boy_upc" height="30" width="40" /></a>
-<a href="https://hashnode.com/aadityaupadhyay2343" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="aadityaupadhyay2343" height="30" width="40" /></a>
+<a href="https://aadityaupadhyay.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="aadityaupadhyay2343" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aaditya_upadhyay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aaditya_upadhyay" height="30" width="40" /></a>
 </p>
 
