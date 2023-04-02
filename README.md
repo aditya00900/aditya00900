@@ -7,14 +7,12 @@
 
 - 📫 How to reach me **upadhyayankit039@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BNxkI2PkaT3GHQJjOnBnI2Q%3D%3D](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BNxkI2PkaT3GHQJjOnBnI2Q%3D%3D)
-
 - ⚡ Fun fact **I think i am a Great person .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@aadittya0297799" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@aadittya0297799" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/𝓐𝓪𝓭𝓲𝓽𝔂𝓪 𝓤𝓹𝓪𝓭𝓱𝔂𝓪𝔂" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="𝓐𝓪𝓭𝓲𝓽𝔂𝓪 𝓤𝓹𝓪𝓭𝓱𝔂𝓪𝔂" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/𝓐𝓪𝓭𝓲𝓽𝔂𝓪 𝓤𝓹𝓪𝓭𝓱𝔂𝓪𝔂-16089625a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="𝓐𝓪𝓭𝓲𝓽𝔂𝓪 𝓤𝓹𝓪𝓭𝓱𝔂𝓪𝔂" height="30" width="40" /></a>
 <a href="https://instagram.com/bad_boy_upc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bad_boy_upc" height="30" width="40" /></a>
 <a href="https://hashnode.com/aadityaupadhyay2343" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="aadityaupadhyay2343" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aaditya_upadhyay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aaditya_upadhyay" height="30" width="40" /></a>
