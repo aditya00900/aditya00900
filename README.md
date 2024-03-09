@@ -1,6 +1,7 @@
+<br>
 ![logo](https://github.com/aditya00900/aditya00900/blob/main/Github%20banner.png)
-<hr>
-<hr>
+<br>
+<br>
 <h1 align="center">Hi 👋, I'm Aaditya Upadhyay</h1>
 <h3 align="center">A passionate Full-stack Develveloperoper developer from India</h3>
 <img aligh="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1YodCZY1y0fE01KwFwuM_G&ust=1710074920029000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLjmx7Kc54QDFQAAAAAdAAAAABAE">
