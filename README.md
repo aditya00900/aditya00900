@@ -3,7 +3,7 @@
 <br>
 <br>
 <br>
-<p align="left" alt="coding width="300"> <img src="https://miro.medium.com/v2/resize:fit:1358/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"> </p>
+<p align="center" alt="coding width="300"> <img src="https://miro.medium.com/v2/resize:fit:1358/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"> </p>
 
 - 🌱 I’m currently learning **Vanila JS**
 
