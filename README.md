@@ -1,10 +1,14 @@
- <br>
+
 ![logo](https://github.com/aditya00900/aditya00900/blob/main/Github%20banner.png)
 <br>
 <br>
 <h1 align="center">Hi 👋, I'm Aaditya Upadhyay</h1>
 <h3 align="center">A passionate Full-stack Develveloperoper developer from India</h3>
-<img aligh="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1YodCZY1y0fE01KwFwuM_G&ust=1710074920029000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLjmx7Kc54QDFQAAAAAdAAAAABAE">
+<br>
+<br>
+
+<img align="right" alt="coding" width="400" src="![1 um19N_oeTKlmrHMov0O5bA](https://github.com/aditya00900/aditya00900/assets/117508089/b97444ba-01b8-4b93-a740-4fa64c7d021f)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya00900&label=Profile%20views&color=0e75b6&style=flat" alt="aditya00900" /> </p>
 
