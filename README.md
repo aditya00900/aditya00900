@@ -1,16 +1,9 @@
-
-![logo](https://github.com/aditya00900/aditya00900/blob/main/Github%20banner.png)
-<br>
-<br>
 <h1 align="center">Hi 👋, I'm Aaditya Upadhyay</h1>
 <h3 align="center">A passionate Full-stack Develveloperoper developer from India</h3>
 <br>
 <br>
-
-<img align="right" alt="coding" width="400" src="![1 um19N_oeTKlmrHMov0O5bA](https://github.com/aditya00900/aditya00900/assets/117508089/b97444ba-01b8-4b93-a740-4fa64c7d021f)
-">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya00900&label=Profile%20views&color=0e75b6&style=flat" alt="aditya00900" /> </p>
+<br>
+<p align="left" alt="coding width="300"> <img src="https://miro.medium.com/v2/resize:fit:1358/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"> </p>
 
 - 🌱 I’m currently learning **Vanila JS**
 
@@ -34,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya00900&show_icons=true&locale=en" alt="aditya00900" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya00900&" alt="aditya00900" /></p>
-
