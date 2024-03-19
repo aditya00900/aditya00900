@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aaditya Upadhyay</h1>
-<h3 align="center">A passionate Full-stack Develveloperoper developer from India</h3>
+<h3 align="center">A passionate Full-stack Develveloperoper developer from India </h3>
 <br>
 <br>
 <br>
 <p align="center" alt="coding width="300"> <img src="https://miro.medium.com/v2/resize:fit:1358/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"> </p>
 
-- 🌱 I’m currently learning **Vanila JS**
+- <b><i>🌱 I’m currently learning **Vanila JS**</i></b>
 
-- 📫 How to reach me **upadhyayankit039@gmail.com**
+- 📫 <b><i>How to reach me </i></b> :- **upadhyayankit039@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
