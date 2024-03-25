@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full-stack Develveloperoper developer from India </h3>
 <br>
 <br>
-<br>
+<br> 
 <p align="center" alt="coding width="300"> <img src="https://miro.medium.com/v2/resize:fit:1358/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"> </p>
 
 - <b><i>🌱 I’m currently learning **Vanila JS**</i></b>
